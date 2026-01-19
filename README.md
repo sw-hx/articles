@@ -5,7 +5,7 @@ as a backend software engineer
 
 🌟Topics include:
 - Java & Spring Boot
-- Linux & systemd
+- Linux 
 - Backend deployment
 - Software engineering best practices
 
