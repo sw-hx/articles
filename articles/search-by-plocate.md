@@ -12,7 +12,7 @@ all your files metadata**
 - All you need to remember your file name that you want to know it,s location
   and Done !
 
-Luckily all my backups files followed a standard name format like 😁😁😁
+Luckily all my backups files followed a standard naming format 😁😁😁 like
 
 ```bash
 filename-backup-YYYY-MM-DD
